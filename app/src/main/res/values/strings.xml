@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lesson7.AsyncTask.TDGiang</string>
+    <string name="change_interface">Change Interface</string>
+    <string name="hint_name">name</string>
+    <string name="hint_number">Phone Number</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="delete">delete</string>
+    <string name="notification">Plese input infomation</string>
+    <string name="btn_delete_main">Delete</string>
+    <string name="btn_cancel_main">cancel</string>
+
+</resources>
